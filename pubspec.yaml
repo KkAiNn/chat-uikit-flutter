@@ -73,7 +73,7 @@ dependencies:
   cross_file: ^0.3.3+4
   csslib: ^0.17.2
   diff_match_patch: ^0.4.1
-  just_audio: ^0.10.4
+  just_audio: ^0.9.34
   markdown: ^7.1.0
   logger: ^2.0.1
   visibility_detector: ^0.4.0+2
